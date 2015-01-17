@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <addon id="repository.bot.u" name="Bot U Repository" version="0.0.1" provider-name="Bot U">
         <extension point="xbmc.addon.repository" name="Bot U Repository"> 
-                <info compressed="false">https://raw.githubusercontent.com/Bot-u-iptv/Bot-u-repo/master/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/Bot-u-iptv/Bot-u-repo/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/Bot-u-iptv/Bot-u-repo/master/addons</datadir>
+                <info compressed="false">https://raw.githubusercontent.com/Bot-u-iptv/bot_u_repo/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Bot-u-iptv/bot_u_repo/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Bot-u-iptv/bot_u_repo/master/addons</datadir>
 				<hashes>true</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
